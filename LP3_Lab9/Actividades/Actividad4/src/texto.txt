@@ -1,0 +1,5 @@
+Los archivos permiten que la información manipulada 
+por una aplicación sea persistente en el tiempo. 
+El manejo de archivo además permite interactuar con 
+los dispositivos de almacenamiento externo de modo 
+que esta información puede permanecer en el tiempo.
